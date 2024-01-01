@@ -15,7 +15,7 @@
 2. **Clone the Repository:**
    - Clone the forked repository to your local machine.
      ```bash
-     git clone https://github.com/your-username/WellQuest-Club.git
+     git clone https://github.com/Samarth277/hackathon_project.git
      cd WellQuest-Club
      ```
 
