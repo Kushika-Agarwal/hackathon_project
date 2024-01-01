@@ -1,11 +1,11 @@
 import React from "react";
 import styled from "styled-components";
-import FooterBanner from "./FooterBanner";
-import Logo from "./Logo";
+import Facebook from "../Icons/Facebook";
 import Instagram from "../Icons/Instagram";
 import LinkedIn from "../Icons/LinkedIn";
 import Twitter from "../Icons/Twitter";
-import Facebook from "../Icons/Facebook";
+import FooterBanner from "./FooterBanner";
+import Logo from "./Logo";
 
 const Footer = () => {
   const scrollTo = (id) => {
@@ -26,30 +26,30 @@ const Footer = () => {
           <Logo />
           <IconList>
             <a
-              href="http://twitter.com/israelmitolu"
+              href="#"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="wellQuest"
             >
               <Twitter />
             </a>
             <a
-              href="http://linkedin.com/in/israeloyetunji"
+              href="#"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="wellQuest"
             >
               <LinkedIn />
             </a>
             <a
-              href="http://instagram.com/devmitoluu"
+              href="#"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="wellQuest"
             >
               <Instagram />
             </a>
             <a
-              href="http://facebook.com"
+              href="#"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="wellQuest"
             >
               <Facebook />
             </a>
@@ -67,16 +67,16 @@ const Footer = () => {
       </Container>
       <Credits>
         <span>
-          &copy;{new Date().getFullYear()} Weirdos Club. All Rights Reserved.
+          &copy;{new Date().getFullYear()} WellQuest Club. All Rights Reserved.
         </span>
         <span>
           Made with 💖 by {""}
           <a
-            href="https://twitter.com/israelmitolu"
+            href="https://www.linkedin.com/in/samarthmishraxyz/"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="wellQuest"
           >
-            Israel Mitolu
+            WellQuest_Club
           </a>
         </span>
       </Credits>
