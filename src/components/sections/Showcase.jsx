@@ -160,15 +160,15 @@ const Details = styled.div`
   }
 `;
 
-const Price = styled.div`
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
+// const Price = styled.div`
+//   display: flex;
+//   justify-content: flex-start;
+//   align-items: center;
 
-  img {
-    width: 1rem;
-    height: auto;
-  }
-`;
+//   img {
+//     width: 1rem;
+//     height: auto;
+//   }
+// `;
 
 export default Showcase;
