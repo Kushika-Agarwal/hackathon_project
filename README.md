@@ -1,6 +1,6 @@
 # WellQuest
 
-[Welcome to WellQuest Club, a transformative project dedicated to supporting individuals on their journey to recovery from drug addiction. Our platform serves as a beacon of hope, providing personalized support, resources, and a supportive community to empower lives beyond addiction.]
+Welcome to WellQuest Club, a transformative project dedicated to supporting individuals on their journey to recovery from drug addiction. Our platform serves as a beacon of hope, providing personalized support, resources, and a supportive community to empower lives beyond addiction.
 
 ## Table of Contents
 
