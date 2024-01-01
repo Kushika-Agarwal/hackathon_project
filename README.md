@@ -1,20 +1,3 @@
-### Resources Used in This Project
-
-Character Figures: https://bigheads.io/ <br />
-Fonts: https://fontsource.org/ <br />
-Svg Icons From: https://icons8.com & https://freesvg.org/   <br />
-
-### External Libraries used in this project: 
-
-[styled-components](https://styled-components.com/docs/advanced) <br />
-[GSAP](https://greensock.com/gsap/) <br />
-[type-writer effect](https://www.npmjs.com/package/typewriter-effect) <br />
-[react-confetti](https://www.npmjs.com/package/react-confetti) <br />
-[react-use](https://www.npmjs.com/package/react-use) <br />
-
-
-
-
 # WellQuest
 
 [Welcome to WellQuest Club, a transformative project dedicated to supporting individuals on their journey to recovery from drug addiction. Our platform serves as a beacon of hope, providing personalized support, resources, and a supportive community to empower lives beyond addiction.]
@@ -112,4 +95,20 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 [Specify the project's license and provide a link to the license file.]
 
 [Additional Sections as Needed]
+
+### Resources Used in This Project
+
+Character Figures: https://bigheads.io/ <br />
+Fonts: https://fontsource.org/ <br />
+Svg Icons From: https://icons8.com & https://freesvg.org/   <br />
+
+### External Libraries used in this project: 
+
+[styled-components](https://styled-components.com/docs/advanced) <br />
+[GSAP](https://greensock.com/gsap/) <br />
+[type-writer effect](https://www.npmjs.com/package/typewriter-effect) <br />
+[react-confetti](https://www.npmjs.com/package/react-confetti) <br />
+[react-use](https://www.npmjs.com/package/react-use) <br />
+
+
 
