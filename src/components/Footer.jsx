@@ -26,30 +26,30 @@ const Footer = () => {
           <Logo />
           <IconList>
             <a
-              href="#"
+              href="http://twitter.com/"
               target="_blank"
-              rel="wellQuest"
+              rel="noopener noreferrer"
             >
               <Twitter />
             </a>
             <a
-              href="#"
+              href="http://linkedin.com/in/"
               target="_blank"
-              rel="wellQuest"
+              rel="noopener noreferrer"
             >
               <LinkedIn />
             </a>
             <a
-              href="#"
+              href="http://instagram.com/"
               target="_blank"
-              rel="wellQuest"
+              rel="noopener noreferrer"
             >
               <Instagram />
             </a>
             <a
-              href="#"
+              href="http://facebook.com"
               target="_blank"
-              rel="wellQuest"
+              rel="noopener noreferrer"
             >
               <Facebook />
             </a>
@@ -59,8 +59,8 @@ const Footer = () => {
         <ListItems>
           <Item onClick={() => scrollTo("home")}>Home</Item>
           <Item onClick={() => scrollTo("about")}>About</Item>
-          <Item onClick={() => scrollTo("roadmap")}>Roadmap</Item>
-          <Item onClick={() => scrollTo("showcase")}>Showcase</Item>
+          <Item onClick={() => scrollTo("mission")}>Our Mission</Item>
+          <Item onClick={() => scrollTo("contributor")}>Contributor</Item>
           <Item onClick={() => scrollTo("team")}>Team</Item>
           <Item onClick={() => scrollTo("faqs")}>Faqs</Item>
         </ListItems>
@@ -74,9 +74,9 @@ const Footer = () => {
           <a
             href="https://www.linkedin.com/in/samarthmishraxyz/"
             target="_blank"
-            rel="wellQuest"
+            rel="noopener noreferrer"
           >
-            WellQuest_Club
+            WellQuest_club
           </a>
         </span>
       </Credits>

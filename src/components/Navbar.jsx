@@ -30,7 +30,7 @@ const Navbar = () => {
           <ListItem onClick={() => scrollTo("home")}>Home</ListItem>
           <ListItem onClick={() => scrollTo("about")}>About</ListItem>
           <ListItem onClick={() => scrollTo("mission")}>Our Mission</ListItem>
-          <ListItem onClick={() => scrollTo("showcase")}>Showcase</ListItem>
+          <ListItem onClick={() => scrollTo("contributor")}>Contributor</ListItem>
           <ListItem onClick={() => scrollTo("team")}>Team</ListItem>
           <ListItem onClick={() => scrollTo("faqs")}>Faqs</ListItem>
           <ListItem>
