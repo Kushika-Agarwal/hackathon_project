@@ -37,7 +37,7 @@ const Navbar = () => {
             <div className="mobile">
               <Button
                 text="View on Github"
-                link="https://github.com/israelmitolu"
+                link="https://github.com/samarth277"
               />
             </div>
           </ListItem>
