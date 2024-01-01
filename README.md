@@ -86,15 +86,30 @@ We welcome contributions from everyone. Please take a moment to review the [Cont
 4. Make your changes and commit them.
 5. Push the changes to your fork and submit a pull request.
 
-### Code of Conduct
+# WellQuest Club - Contributor Code of Conduct
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
+## Our Pledge
 
-## License
+In the spirit of fostering a positive and collaborative environment, we, as contributors and maintainers of WellQuest Club, pledge to treat all individuals with respect, kindness, and empathy.
 
-[Specify the project's license and provide a link to the license file.]
+## Our Standards
 
-[Additional Sections as Needed]
+- Be inclusive and welcoming of diverse perspectives and experiences.
+- Show empathy towards fellow contributors.
+- Refrain from any form of harassment or offensive behavior.
+- Value constructive criticism and be open to learning from others.
+
+## Our Responsibilities
+
+Project maintainers are committed to maintaining a welcoming space and will address issues promptly and fairly. Instances of unacceptable behavior may result in the removal of specific contributions or contributors.
+
+## Enforcement
+
+Violations of this Code of Conduct can be reported by contacting the project team at [stackdevsamarth@programmer.net]. All reports will be reviewed and will be met with a prompt and appropriate response.
+
+## Attribution
+
+This Contributor Code of Conduct is inspired by the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.0.
 
 ### Resources Used in This Project
 
