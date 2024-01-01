@@ -1,12 +1,12 @@
 import React from "react";
 import styled from "styled-components";
 
-import img1 from "../assets/Nfts/bighead.svg";
 import img2 from "../assets/Nfts/bighead-1.svg";
 import img3 from "../assets/Nfts/bighead-2.svg";
 import img4 from "../assets/Nfts/bighead-3.svg";
 import img5 from "../assets/Nfts/bighead-4.svg";
 import img6 from "../assets/Nfts/bighead-5.svg";
+import img1 from "../assets/Nfts/bighead.svg";
 
 const FooterBanner = () => {
   return (
@@ -20,7 +20,7 @@ const FooterBanner = () => {
         <img src={img6} alt="The Weirdos" />
       </ImgContainer>
       <Title>
-        Join the <br /> weirdos club
+        Join the <br /> WellQuest club
       </Title>
       <BtnContainer>
         <JoinNow>Join Now</JoinNow>
