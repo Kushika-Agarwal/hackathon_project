@@ -31,22 +31,22 @@ const Faqs = () => {
       <Container>
         <Box>
           <Accordion title="What is WellQuest Club?">
-            Once minted or bought simply connect to your OpenSea account to view
-            your NFTs.
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore
+            deserunt consequatur quisquam maxime molestias dolores ipsum,
+            exercitationem vel sint quidem aliquam modi quis impedit corporis
+            unde inventore fugiat provident in.
           </Accordion>
           <Accordion title="How can I join WellQuest Club?">
-            A metaverse is a network of 3D virtual worlds focused on social
-            connection. In futurism and science fiction, it is often described
-            as a hypothetical iteration of the Internet as a single, universal
-            virtual world that is facilitated by the use of virtual and
-            augmented reality headsets.
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore
+            deserunt consequatur quisquam maxime molestias dolores ipsum,
+            exercitationem vel sint quidem aliquam modi quis impedit corporis
+            unde inventore fugiat provident in.
           </Accordion>
           <Accordion title="Is WellQuest Club only for people recovering from drug addiction?">
-            The amount of royalties was fixed at 5% to finance the Weirdos
-            Club's projects. We have the ambition to organize multiple events
-            around the world in order to strengthen the community and build a
-            network of entrepreneurs and investors with the same mindset and
-            common interests.
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore
+            deserunt consequatur quisquam maxime molestias dolores ipsum,
+            exercitationem vel sint quidem aliquam modi quis impedit corporis
+            unde inventore fugiat provident in.
           </Accordion>
         </Box>
         <Box>
@@ -54,8 +54,10 @@ const Faqs = () => {
             title="Are my personal details and activities private on WellQuest Club?
 "
           >
-            Once minted or bought simply connect to your OpenSea account to view
-            your NFTs.
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore
+            deserunt consequatur quisquam maxime molestias dolores ipsum,
+            exercitationem vel sint quidem aliquam modi quis impedit corporis
+            unde inventore fugiat provident in.
           </Accordion>
           <Accordion
             title=" How can I contribute to the WellQuest Club community?
