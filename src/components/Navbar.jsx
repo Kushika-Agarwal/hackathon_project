@@ -45,7 +45,7 @@ const Navbar = () => {
         <div className="desktop">
           <Button
             text="View on Github"
-            link="https://github.com/israelmitolu"
+            link="https://github.com/Samarth277/hackathon_project"
           />
         </div>
       </Nav>
