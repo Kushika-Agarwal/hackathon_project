@@ -51,29 +51,29 @@ const Roadmap = () => {
           <Item>&nbsp;</Item>
           <RoadmapItem
             addToRefs={addToRefs}
-            title="Wellness Challenges"
-            subtext="Engage in a series of wellness challenges that encourage healthy habits, physical activity, and mental resilience. Each challenge is crafted to make well-being accessible and enjoyable."
+            title="Adventure-Centric Activities"
+            subtext="We curate a diverse range of thrilling activities, challenges, and adventures that stimulate the mind and body, providing an adrenaline rush without reliance on harmful substances."
           />
           <RoadmapItem
             addToRefs={addToRefs}
-            title="Positive Reinforcement"
-            subtext="We believe in the power of positive reinforcement. Our mission is to celebrate every milestone, no matter how small, and to recognize the resilience and effort put forth by our community members."
+            title="Mindful Engagement"
+            subtext="Through mindfulness exercises, interactive tasks, and mental challenges, we encourage users to engage with themselves, fostering mental resilience and focus."
           />
           <RoadmapItem
             addToRefs={addToRefs}
-            title="Education and Empowerment"
-            subtext="Adventure Quest is committed to providing comprehensive educational resources and empowering tools. We aim to equip our members with knowledge and skills that empower them to take control of their recovery journey."
+            title="Rewards and Recognition"
+            subtext=" Earn points, rewards, and recognition for completing tasks and milestones. Positive reinforcement encourages continued engagement and progress."
           />
           <RoadmapItem
             addToRefs={addToRefs}
-            title="Building a Supportive Community"
-            subtext="Adventure Quest is not just an app; it's a community that supports, encourages, and celebrates every member's progress. Together, we can achieve more."
+            title="Community Support"
+            subtext="Building a community of like-minded individuals who inspire and motivate each other is pivotal. Peer support and encouragement help in steering away from harmful habits towards healthier choices."
           />
-          {/* <RoadmapItem
+          <RoadmapItem
             addToRefs={addToRefs}
-            title="Holders Ranking"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
-          /> */}
+            title="Personal Growth"
+            subtext="Our platform prioritizes personal growth and self-improvement. We provide tools and resources for users to set and achieve goals, promoting a sense of accomplishment and purpose."
+          />
         </Items>
       </Container>
     </Section>
