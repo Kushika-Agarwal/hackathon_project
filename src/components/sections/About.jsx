@@ -14,15 +14,15 @@ const About = () => {
         <Box>
           <Title>
             Welcome To The
-            <br /> WellQuest Club.
+            <br /> Adventure Quest.
           </Title>
           <SubText>
-          At WellQuest, we understand the complexities of
+          At Adventure Quest, we understand the complexities of
            addiction and are committed to providing a
            holistic and personalized approach to recovery.
           </SubText>
           <SubTextLight>
-          At the heart of WellQuest Club is a mission to foster positive change
+          At the heart of Adventure Quest is a mission to foster positive change
           and well-being among individuals facing the challenges of drug addiction.
           We believe in the transformative power of community, support, and personalized
           strategies to guide our members toward a healthier, substance-free lifestyle.

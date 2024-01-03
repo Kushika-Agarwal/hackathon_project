@@ -62,12 +62,12 @@ const Roadmap = () => {
           <RoadmapItem
             addToRefs={addToRefs}
             title="Education and Empowerment"
-            subtext="WellQuest Club is committed to providing comprehensive educational resources and empowering tools. We aim to equip our members with knowledge and skills that empower them to take control of their recovery journey."
+            subtext="Adventure Quest is committed to providing comprehensive educational resources and empowering tools. We aim to equip our members with knowledge and skills that empower them to take control of their recovery journey."
           />
           <RoadmapItem
             addToRefs={addToRefs}
             title="Building a Supportive Community"
-            subtext="WellQuest Club is not just an app; it's a community that supports, encourages, and celebrates every member's progress. Together, we can achieve more."
+            subtext="Adventure Quest is not just an app; it's a community that supports, encourages, and celebrates every member's progress. Together, we can achieve more."
           />
           {/* <RoadmapItem
             addToRefs={addToRefs}

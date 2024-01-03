@@ -30,52 +30,48 @@ const Faqs = () => {
       <Title>FAQs</Title>
       <Container>
         <Box>
-          <Accordion title="What is WellQuest Club?">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore
-            deserunt consequatur quisquam maxime molestias dolores ipsum,
-            exercitationem vel sint quidem aliquam modi quis impedit corporis
-            unde inventore fugiat provident in.
+          <Accordion title="How can this app help me stay away from drugs and focus on healthier activities?">
+          Adventure Quest offers a diverse range of tasks and challenges designed to engage and redirect your energy
+          towards positive endeavors. By immersing yourself in these activities, you'll find a healthy outlet for your time and energy,
+          steering clear of negative influences like drugs.
           </Accordion>
-          <Accordion title="How can I join WellQuest Club?">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore
-            deserunt consequatur quisquam maxime molestias dolores ipsum,
-            exercitationem vel sint quidem aliquam modi quis impedit corporis
-            unde inventore fugiat provident in.
+          <Accordion title="What kind of tasks can I expect on this platform?">
+          Our tasks cover a wide spectrum, including physical activities, creative pursuits, 
+          educational challenges, and much more. From outdoor adventures to mindfulness exercises, 
+          our goal is to provide a variety of options that cater to different interests and preferences.
           </Accordion>
-          <Accordion title="Is WellQuest Club only for people recovering from drug addiction?">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore
-            deserunt consequatur quisquam maxime molestias dolores ipsum,
-            exercitationem vel sint quidem aliquam modi quis impedit corporis
-            unde inventore fugiat provident in.
+          <Accordion title="How would you boost their self-esteem through tasks?">
+          After completion of each task an appreciation note containing their name 
+          will be shown which would result  increase in their self esteem. 
+          This will urge them to complete more task.
+
           </Accordion>
         </Box>
         <Box>
           <Accordion
-            title="Are my personal details and activities private on WellQuest Club?
-"
+            title="How does this app promote a mindset shift towards self-focus and personal growth?"
           >
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore
-            deserunt consequatur quisquam maxime molestias dolores ipsum,
-            exercitationem vel sint quidem aliquam modi quis impedit corporis
-            unde inventore fugiat provident in.
+            Through task completion and engagement with our community, you'll discover a pathway towards 
+            self-improvement and self-discovery. By setting and achieving goals, exploring new activities, 
+            and interacting with like-minded individuals, you'll gradually cultivate a mindset focused on 
+            personal growth and development.
           </Accordion>
           <Accordion
-            title=" How can I contribute to the WellQuest Club community?
-"
+            title=" Can I connect with other users who share similar interests?"
           >
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore
-            deserunt consequatur quisquam maxime molestias dolores ipsum,
-            exercitationem vel sint quidem aliquam modi quis impedit corporis
-            unde inventore fugiat provident in.
+            Absolutely! Our platform encourages community engagement. You can interact with others, 
+            join groups, share experiences, and even collaborate on tasks. This fosters a supportive 
+            environment where you can find inspiration and motivation from fellow users.
+
           </Accordion>
           <Accordion
-            title="Can I get real-time support on WellQuest Club?
+            title=" How can I get started on Adventure Quest?
 "
           >
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
-            veritatis iusto officia. Exercitationem, ducimus reiciendis. Rem,
-            maxime, similique neque minus aliquam dolore doloremque laboriosam,
-            facilis quibusdam unde sint officia.
+            Signing up is simple! Download the app, create an account, 
+            and start exploring the various tasks and challenges available. 
+            Choose the ones that resonate with you and begin your journey towards a more fulfilling and healthy lifestyle.
+
           </Accordion>
         </Box>
       </Container>

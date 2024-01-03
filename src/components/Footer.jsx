@@ -67,7 +67,7 @@ const Footer = () => {
       </Container>
       <Credits>
         <span>
-          &copy;{new Date().getFullYear()} WellQuest Club. All Rights Reserved.
+          &copy;{new Date().getFullYear()} Adventure Quest Club. All Rights Reserved.
         </span>
         <span>
           Made with 💖 by {""}
@@ -76,7 +76,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            WellQuest_club
+            Adventure Quest_club
           </a>
         </span>
       </Credits>

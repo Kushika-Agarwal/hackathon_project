@@ -20,7 +20,7 @@ const FooterBanner = () => {
         <img src={img6} alt="The Weirdos" />
       </ImgContainer>
       <Title>
-        Join the <br /> WellQuest club
+        Join the <br /> Adventure Quest
       </Title>
       <BtnContainer>
         <JoinNow>Join Now</JoinNow>
