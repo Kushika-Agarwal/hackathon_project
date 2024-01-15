@@ -29,7 +29,7 @@ const About = () => {
           </SubTextLight>
           <ButtonContainer>
             <ThemeProvider theme={Dark}>
-              <Button text="Join Our Community" link="#" />
+              <Button text="Join Our Community" link="https://forms.gle/Gbfzf41MDbFcvAhWA" />
             </ThemeProvider>
           </ButtonContainer>
         </Box>
