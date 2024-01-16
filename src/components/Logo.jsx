@@ -1,11 +1,11 @@
 import React from "react";
-import styled from "styled-components";
 import { Link } from "react-router-dom";
+import styled from "styled-components";
 
 const Logo = () => {
   return (
     <LogoText>
-      <Link to="/">w.</Link>
+      <Link to="/">A.</Link>
     </LogoText>
   );
 };
