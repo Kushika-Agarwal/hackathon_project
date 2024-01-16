@@ -36,7 +36,7 @@ const Navbar = () => {
           <ListItem>
             <div className="mobile">
               <Button
-                text="View on Github"
+                text="Apply for Open Source"
                 link="https://forms.gle/Gbfzf41MDbFcvAhWA"
               />
             </div>
@@ -44,7 +44,7 @@ const Navbar = () => {
         </Menu>
         <div className="desktop">
           <Button
-            text="View on Github"
+            text="Apply for Open Source"
             link="https://forms.gle/Gbfzf41MDbFcvAhWA"
           />
         </div>
